@@ -1,0 +1,17 @@
+{
+  "META": {
+    "repoName": "SpotiScarlet",
+    "repoIcon": "https://raw.githubusercontent.com/Cipr3sso/SpotiScarlet/main/Spoticon.png"
+  },
+  "SpotiScarlet": [
+    {
+      "name": "SpotiScarlet",
+      "version": "8.8.2",
+      "down": "https://download2388.mediafire.com/dtvr5r3y2k8g6Z25xbamtu6AaeMlMjSCG3TDy4JVo0pX_lKrOlLUuJdgMZMHbG47lxFNvDdp01YjDrFwiHEfvwUPFjtC21EHZJIVCUxfu42XQiK-ngs5e_CBA3Wm4mvfXVt_m4iGiCo7Rt7haR8ECIwEvlbSdsUH2aGFwQXp-EaX/nymxhur5a1oymkm/Spotify+%2B%2B+8.8.2.ipa",
+      "category": "SpotiScarlet",
+      "description": "Just a Spotify pretweaked",
+      "bundleID": "com.spotify.client",
+      "appstore": "com.spotify.client"
+    }
+   ],
+}
