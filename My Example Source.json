@@ -1,0 +1,55 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/w3E7ZCg.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "net.thomasdye.TDS-Video4"
+  ],
+  "apps": [
+    {
+      "name": "TDS Video",
+      "bundleIdentifier": "net.thomasdye.TDS-Video4",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/trUGcBL.png",
+      "tintColor": "#546cfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/thomasdye12/TDS-Carplay/releases/download/1.2.5/TDS.Video1.5.ipa",
+          "size": 2600000,
+          "version": "1.2",
+          "buildVersion": null,
+          "date": "2025-09-10T22:54:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-calling",
+          "com.apple.developer.carplay-communication",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "test",
+          "NSFaceIDUsageDescription": "t3wrt",
+          "NSLocationWhenInUseUsageDescription": "TDS Video will use your location to access wifi settings to improve video preformance - is not required please deny if you would like",
+          "NSMotionUsageDescription": "TDS Carplay needs access to your motion to understand when you are in a moving car"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
